@@ -1,0 +1,4 @@
+BattleShipBeta
+==============
+
+BattleShip for Android
